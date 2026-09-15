@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://starbucks-blush-seven.vercel.app/sitemap.xml
